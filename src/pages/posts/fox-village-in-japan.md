@@ -1,5 +1,5 @@
 ---
-title: Wandelen op landgoed Stakenberg
+title: De helende werking van de natuur
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
