@@ -2,11 +2,11 @@
 title: De helende werking van de natuur
 subtitle: Het energetisch veld wat in de natuur hangt is een ontstressend medicijn
 excerpt: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries. The Shrines of Ise have been celebrated as the prototype of
-  Japanese architecture. Largely of wood, traditional housing and many temple
-  buildings see the use of tatami mats and sliding doors that break down the
-  distinction between rooms and indoor and outdoor space.
+  Wandelend over bos en heide, de ruimte en verbinding voelen in jezelf en in de
+  natuur. De rust ervaren in je hoofd en lichaam waardoor je de ontspanning
+  voelt en je gedachten naar de achtergrond mogen. In die stilte, de rust en
+  ruimte van de natuur kijk ik samen met wat voor jouw onbewust is en bewust mag
+  worden. Je bent beter in staat te luisteren naar je innerlijk gevoel.
 date: '2020-01-11'
 thumb_img_path: images/stakenberg_boom400x250.jpg
 thumb_img_alt: A red fox sitting on a meadow
