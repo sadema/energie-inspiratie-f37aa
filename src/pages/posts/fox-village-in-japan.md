@@ -48,8 +48,7 @@ seo:
 template: post
 hide_header: false
 ---
-
-Apparently, Japan is covered in magical and irresistibly cute animal sanctuaries. **The Shrines of Ise** have been celebrated as the prototype of Japanese architecture. Largely of wood, traditional housing and many temple buildings see the use of tatami mats and sliding doors that break down the distinction between rooms and indoor and outdoor space.
+Wandelend over bos en heide, de ruimte en verbinding voelen in jezelf en in de natuur. De rust ervaren in je hoofd en lichaam waardoor je de ontspanning voelt en je gedachten naar de achtergrond mogen. In die stilte, de rust en ruimte van de natuur kijk ik samen met wat voor jouw onbewust is en bewust mag worden. Je bent beter in staat te luisteren naar je innerlijk gevoel. Wat helpt jou om goed voor jezelf te zorgen. Ik begeleidt je om open te staan voor andere signalen dan alleen je ratio en meer in je lichaam aanwezig te zijn. Zo ervaar je dat je meer mag vertrouwen op je gevoel en intuitie en authentieke keuzes maakt.
 
 > The fox never found a better messenger than himself.
 
@@ -57,7 +56,7 @@ As the programming of <a title="Japan" href="http://en.wikipedia.org/wiki/Japan"
 
 Japan’s educational, economical and political systems remained hidebound bulwarks of traditional behavior. The politically guided economic system in particular was able to generate enormous power that could be directed with the precision of a laser beam.
 
-Twelve species belong to the monophyletic group of Vulpes genus of **"true foxes"**. Approximately another 25 current or extinct species are always or sometimes called foxes; these foxes are either part of the paraphyletic group of the South American foxes, or of the outlying group, which consists of bat-eared fox, gray fox, and island fox. Foxes are found on every continent except Antarctica. By far the most common and widespread species of fox is the red fox *(Vulpes vulpes)* with about 47 recognized subspecies. 
+Twelve species belong to the monophyletic group of Vulpes genus of **"true foxes"**. Approximately another 25 current or extinct species are always or sometimes called foxes; these foxes are either part of the paraphyletic group of the South American foxes, or of the outlying group, which consists of bat-eared fox, gray fox, and island fox. Foxes are found on every continent except Antarctica. By far the most common and widespread species of fox is the red fox *(Vulpes vulpes)* with about 47 recognized subspecies.
 
 > The fox changes his fur but not his habits.
 
