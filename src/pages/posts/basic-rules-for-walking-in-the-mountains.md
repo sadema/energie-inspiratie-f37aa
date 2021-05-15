@@ -1,9 +1,9 @@
 ---
 title: Een energie wandeling
 excerpt: >-
-  Hiking is sometimes referred to as such. This specifically refers to difficult
-  walking through dense forest, undergrowth, or bushes, where forward progress
-  requires pushing vegetation aside.
+  We maken een wandeling door het bos, waarbij je meer in je lichaam komt en
+  minder in je hoofd aanwezig bent. Dat betekent minder gedachten minder stress
+  en je meer bewust worden van je lichaam en wat je daarin voelt.
 date: '2019-04-09'
 thumb_img_path: images/1.jpg
 thumb_img_alt: A man standing on a rock cliff overlooking a river
