@@ -48,7 +48,7 @@ hide_header: false
 ---
 Wandelend over bos en heide, de ruimte en verbinding voelen in jezelf en in de natuur. De rust ervaren in je hoofd en lichaam waardoor je de ontspanning voelt en je gedachten naar de achtergrond mogen. In die stilte, de rust en ruimte van de natuur kijk ik samen met wat voor jouw onbewust is en bewust mag worden. Je bent beter in staat te luisteren naar je innerlijk gevoel. Wat helpt jou om goed voor jezelf te zorgen. Ik begeleidt je om open te staan voor andere signalen dan alleen je ratio en meer in je lichaam aanwezig te zijn. Zo ervaar je dat je meer mag vertrouwen op je gevoel en intuitie en authentieke keuzes maakt.
 
-> The fox never found a better messenger than himself.
+> In de natuur zijn, het veld vol energie werkt als één groot oplaadpunt.
 
 As the programming of <a title="Japan" href="http://en.wikipedia.org/wiki/Japan" target="_blank">Japan’s</a> traditional culture gradually weakened from 1945 on, individual Japanese began to exercise some personal choice in their private lives. But the newly mandated freedoms had a minimal effect on a number of key institutions.
 
