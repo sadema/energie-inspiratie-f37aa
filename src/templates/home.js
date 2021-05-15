@@ -20,7 +20,7 @@ export const query = graphql`
 
 export default class Home extends React.Component {
     render() {
-        let posts = getPages(this.props.pageContext.pages, '/posts');
+        let posts = getPages(this.props.pageContext.pages, '/diensten');
         let posts_count = _.size(posts);
         return (
             <Layout {...this.props}>
