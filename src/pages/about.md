@@ -1,6 +1,6 @@
 ---
 title: Over mijzelf
-subtitle: This is a short page about me and my work
+subtitle: Dit is een korte pagina over mijzelf en mijn passie
 img_path: images/about.jpg
 seo:
   title: About Me
