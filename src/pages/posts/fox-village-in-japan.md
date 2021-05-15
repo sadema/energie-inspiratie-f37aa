@@ -1,8 +1,6 @@
 ---
 title: De helende werking van de natuur
-subtitle: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries.
+subtitle: Het energetisch veld wat in de natuur hangt is een ontstressend medicijn
 excerpt: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries. The Shrines of Ise have been celebrated as the prototype of
