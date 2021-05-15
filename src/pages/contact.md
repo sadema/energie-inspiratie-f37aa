@@ -20,7 +20,7 @@ form_fields:
     default_value: Selecteer
     options:
       - Fout op de website
-      - Sponsorship
+      - 'Informatie over '
       - Other
   - input_type: textarea
     name: message
