@@ -32,12 +32,12 @@ template: page
 ---
 Met mijn man en 2 kinderen woon ik met plezier in de bossen van Apeldoorn. De bossen en bomen hebben mij altijd getrokken. Ik kom oorspronkelijk uit het westen maar ik woon nu al jaren op de Veluwe.
 
+Alles wat is zich met persoonlijkheid ontwikkeling te maken heeft boeit mij. Dit was zo tijdens mijn Z-verpleegkundige opleiding en tijdens mijn opleiding aan de SPH in Nijmegen. Ik werk met plezier als ambulant begeleidster.
+
+Ik ben geïnteresseerd  in mensen en wat hun beweegt. Na enkele belangrijke gebeurtenissen in mijn leven heb ik de opleidingen, healer, reader en lightworker bij Mens en Intuïtie in Amersfoort gevolgd. In 2020 heb ik de opleiding voor Natuurcoach bij Innersteps gevolgd. Hierdoor kwamen twee passies samen bewustzijn ontwikkeling en beweging in de natuur.
+
 > Mijn passie is het delen van bewustzijn ontwikkeling en handreikingen te doen doen voor een gezonder en bewuster leven
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+Je bent welkom in mijn tuinkamer in de  bossen van Apeldoorn.
 
-> The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+*Bedankt voor het lezen!*
