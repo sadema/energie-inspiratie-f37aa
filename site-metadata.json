@@ -24,7 +24,7 @@
             },
             {
                 "label": "Meditatie",
-                "url": "/meditatie",
+                "url": "/diensten/meditatie",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
