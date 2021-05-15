@@ -25,7 +25,7 @@ form_fields:
   - input_type: textarea
     name: message
     label: Bericht
-    default_value: Your message
+    default_value: Uw bericht
   - input_type: checkbox
     name: consent
     label: >-
