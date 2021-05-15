@@ -30,7 +30,7 @@ form_fields:
     name: consent
     label: >-
       Ik begrijp dat deze gegevens opgeslagen worden zodat er contact met mij
-      opgenomen kan worden understand that this form is storing my submitted
+      opgenomen kan worden. understand that this form is storing my submitted
       information so I can be contacted.
 submit_label: Send Message
 seo:
