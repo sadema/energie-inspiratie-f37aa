@@ -29,9 +29,9 @@ form_fields:
   - input_type: checkbox
     name: consent
     label: >-
-      Ik begrijp dat deze gegevens opgeslagen worden zodat er contact 
-      understand that this form is storing my submitted information so I can be
-      contacted.
+      Ik begrijp dat deze gegevens opgeslagen worden zodat er contact met mij
+      opgenomen kan worden understand that this form is storing my submitted
+      information so I can be contacted.
 submit_label: Send Message
 seo:
   title: Get in Touch
