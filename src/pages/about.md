@@ -32,6 +32,8 @@ template: page
 ---
 Met mijn man en 2 kinderen woon ik met plezier in de bossen van Apeldoorn. De bossen en bomen hebben mij altijd getrokken. Ik kom oorspronkelijk uit het westen maar ik woon nu al jaren op de Veluwe.
 
+> Mijn passie is het delen van bewustzijn ontwikkeling en handreikingen te doen doen voor een gezonder en bewuster leven
+
 His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
 
 > The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
