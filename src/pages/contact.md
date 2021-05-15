@@ -29,7 +29,7 @@ form_fields:
   - input_type: checkbox
     name: consent
     label: >-
-      Ik begrijp dat deze gegevens opgeslagen worden zodat understand that this
+      Ik begrijp dat deze gegevens opgeslagen worden zodat  understand that this
       form is storing my submitted information so I can be contacted.
 submit_label: Send Message
 seo:
