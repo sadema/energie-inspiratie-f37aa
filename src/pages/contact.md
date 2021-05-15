@@ -21,7 +21,7 @@ form_fields:
     options:
       - Fout op de website
       - Informatie over een dienst
-      - Other
+      - Overig
   - input_type: textarea
     name: message
     label: Bericht
