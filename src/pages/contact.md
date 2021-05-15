@@ -7,7 +7,7 @@ form_fields:
   - input_type: text
     name: name
     label: Naam
-    default_value: Your nameUw naam
+    default_value: Uw naam
     is_required: true
   - input_type: email
     name: email
