@@ -6,7 +6,7 @@ excerpt: >-
 date: '2019-03-24'
 thumb_img_path: images/4.jpg
 thumb_img_alt: A man fishing in a lake
-hide_header: true
+hide_header: false
 seo:
   title: My Way to Relax in Nature and Stress Less
   description: >-
