@@ -44,7 +44,7 @@ seo:
       value: images/10.jpg
       relativeUrl: true
 template: post
-hide_header: false
+hide_header: true
 ---
 Wandelend over bos en heide, de ruimte en verbinding voelen in jezelf en in de natuur. De rust ervaren in je hoofd en lichaam waardoor je de ontspanning voelt en je gedachten naar de achtergrond mogen. In die stilte, de rust en ruimte van de natuur kijk ik samen met wat voor jouw onbewust is en bewust mag worden. Je bent beter in staat te luisteren naar je innerlijk gevoel. Wat helpt jou om goed voor jezelf te zorgen. Ik begeleidt je om open te staan voor andere signalen dan alleen je ratio en meer in je lichaam aanwezig te zijn. Zo ervaar je dat je meer mag vertrouwen op je gevoel en intuitie en authentieke keuzes maakt.
 
