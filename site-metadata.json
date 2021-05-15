@@ -24,7 +24,7 @@
             },
             {
                 "label": "Meditatie",
-                "url": "#",
+                "url": "/meditatie",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
