@@ -15,7 +15,7 @@
             },
             {
                 "label": "Energie wandeling",
-                "url": "#",
+                "url": "/diensten",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
