@@ -31,7 +31,7 @@ form_fields:
     label: >-
       Ik begrijp dat deze gegevens opgeslagen worden zodat er contact met mij
       opgenomen kan worden.
-submit_label: Send Message
+submit_label: Verstuur
 seo:
   title: Get in Touch
   description: This is the contact page
