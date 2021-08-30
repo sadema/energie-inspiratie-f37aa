@@ -8,7 +8,7 @@ excerpt: >-
   ruimte van de natuur kijk ik samen met wat voor jouw onbewust is en bewust mag
   worden. Je bent beter in staat te luisteren naar je innerlijk gevoel.
 date: '2020-01-11'
-thumb_img_path: images/stakenberg_boom400x250.jpg
+thumb_img_path: images/Varens_1024.jpeg
 thumb_img_alt: A red fox sitting on a meadow
 content_img_path: images/stakenberg_bos800.jpg
 seo:
