@@ -8,7 +8,6 @@ excerpt: >-
   van je gedachten en gevoelens en ze herkent kan je ermee spelen. Welke
   gedachten en gevoelens zijn helpend, stimulerend, beperkend.
 date: '2020-01-11'
-thumb_img_path: images/Varens_1024.jpeg
 thumb_img_alt: A red fox sitting on a meadow
 content_img_path: images/stakenberg_bos800.jpg
 seo:
