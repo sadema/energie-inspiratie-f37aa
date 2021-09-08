@@ -2,11 +2,11 @@
 title: Energie Inspiratie
 subtitle: Het energetisch veld wat in de natuur hangt is een ontstressend medicijn
 excerpt: >-
-  Wandelend over bos en heide, de ruimte en verbinding voelen in jezelf en in de
-  natuur. De rust ervaren in je hoofd en lichaam waardoor je de ontspanning
-  voelt en je gedachten naar de achtergrond mogen. In die stilte, de rust en
-  ruimte van de natuur kijk ik samen met wat voor jouw onbewust is en bewust mag
-  worden. Je bent beter in staat te luisteren naar je innerlijk gevoel.
+  Persoonlijke groei voor alle leeftijden aan de hand van de natuur en
+  meditatie. Wordt je bewust van alle kwaliteiten die je bezit. Monitor je
+  gedachten en je gevoelens Wat speelt er binnen in jouw? Als jij je bewust bent
+  van je gedachten en gevoelens en ze herkent kan je ermee spelen. Welke
+  gedachten en gevoelens zijn helpend, stimulerend, beperkend.
 date: '2020-01-11'
 thumb_img_path: images/Varens_1024.jpeg
 thumb_img_alt: A red fox sitting on a meadow
