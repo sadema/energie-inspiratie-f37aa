@@ -43,7 +43,7 @@ excerpt: >-
   minder in je hoofd aanwezig bent. Dat betekent minder gedachten minder stress
   en je meer bewust worden van je lichaam en wat je daarin voelt. Je leert
   luisteren naar je lichaam, je maakt contact met de natuur en je bent meer
-  opmerkzaam van de natuur om je heen. Ik begeleidt je verbaal door je aandacht
+  opmerkzaam van de natuur om je heen. Ik begeleid je verbaal door je aandacht
   te  brengen naar je energiepunten. Hierdoor voel jij je meer zakken in je
   lichaam en meer aarden. Je komt meer in contact met je intuïtie.
 ---
