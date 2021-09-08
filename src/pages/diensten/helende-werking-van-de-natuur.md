@@ -1,5 +1,5 @@
 ---
-title: De helende werking van de natuur
+title: E
 subtitle: Het energetisch veld wat in de natuur hangt is een ontstressend medicijn
 excerpt: >-
   Wandelend over bos en heide, de ruimte en verbinding voelen in jezelf en in de
