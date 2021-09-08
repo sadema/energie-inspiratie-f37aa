@@ -42,5 +42,24 @@ excerpt: "Je wordt ontvangen in het tuinhuis in de bossen van Apeldoorn. We wand
 ---
 ![Hiking](/images/2.jpg)
 
-We maken een wandeling door het bos, waarbij je meer in je lichaam komt en minder in je hoofd aanwezig bent. Dat betekent minder gedachten minder stress en je meer bewust worden van je lichaam en wat je daarin voelt. Je leert luisteren naar je lichaam, je maakt contact met je de natuur en je bent meer opmerkzaam van de natuur om je heen. Dit doen je aan de hand van je energie punten waar je aandacht aan gaan geeft.
+Je wordt ontvangen in het tuinhuis in de bossen van Apeldoorn. We wandelen altijd vanuit een thema bijvoorbeeld: energie, welke kwaliteiten bezit je, loslaten. Het ritme van de natuur nemen we daar in mee. We gebruiken symbolieken en metaforen vanuit de natuur. Je maakt contact met de natuur en je eigen lichaam. Ik begeleidt je verbaal tijdens de wandeling.
 
+*   Dinsdag ochtend van 9.30 tot 11.30
+
+*   Ontvangst in het tuinhuis
+
+*   Uitleg van het thema
+
+*   Begeleidende wandeling
+
+*   Afsluiting in het tuinhuis
+
+    Groep sessie 25 euro
+
+<!---->
+
+*   Individueel; Ontvangst in het tuinhuis.
+
+*   Thema en wandeling op maat
+
+    Wandeling van 2 uur in de Kroondomeinen van het Loo 60 euro
