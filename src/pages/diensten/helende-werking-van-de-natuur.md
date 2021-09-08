@@ -1,5 +1,5 @@
 ---
-title: E
+title: Energie Inspiratie
 subtitle: Het energetisch veld wat in de natuur hangt is een ontstressend medicijn
 excerpt: >-
   Wandelend over bos en heide, de ruimte en verbinding voelen in jezelf en in de
