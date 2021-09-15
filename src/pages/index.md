@@ -16,5 +16,5 @@ Persoonlijke groei voor alle leeftijden aan de hand van de natuur en meditatie. 
 ---
 #### Wat kan je gaan volgen?
 
-[Een energie wandeling]
+[Een energie wandeling]()
 [Diensten voor jou](/diensten-voor-jou)
