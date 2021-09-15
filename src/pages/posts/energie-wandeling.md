@@ -45,7 +45,8 @@ excerpt: >-
   symbolieken en metaforen vanuit de natuur. Je maakt contact met de natuur en
   je eigen lichaam. Ik begeleidt je verbaal tijdens de wandeling...
 ---
-![](images/bomen-met-heide.jpg)Je wordt ontvangen in het tuinhuis in de bossen van Apeldoorn. We wandelen altijd vanuit een thema bijvoorbeeld: energie, welke kwaliteiten bezit je, loslaten. Het ritme van de natuur nemen we daar in mee. We gebruiken symbolieken en metaforen vanuit de natuur. Je maakt contact met de natuur en je eigen lichaam. Ik begeleidt je verbaal tijdens de wandeling.
+![](images/bomen-met-heide.jpg)
+Je wordt ontvangen in het tuinhuis in de bossen van Apeldoorn. We wandelen altijd vanuit een thema bijvoorbeeld: energie, welke kwaliteiten bezit je, loslaten. Het ritme van de natuur nemen we daar in mee. We gebruiken symbolieken en metaforen vanuit de natuur. Je maakt contact met de natuur en je eigen lichaam. Ik begeleidt je verbaal tijdens de wandeling.
 
 *   Dinsdag ochtend van 9.30 tot 11.30
 
