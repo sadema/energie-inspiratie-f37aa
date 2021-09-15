@@ -7,7 +7,7 @@ export default class HeaderAlt extends React.Component {
         return (
             <header id="header-alt" className="site-header-alt">
               <nav id="single-navigation" className="site-navigation-alt" aria-label="Main Navigation">
-                <Link className="home-link" to={withPrefix('/diensten-voor-')}><span className="icon-arrow-left"
+                <Link className="home-link" to={withPrefix('/diensten-voor-jou')}><span className="icon-arrow-left"
                     aria-hidden="true" /> All Articles</Link>
               </nav>
             </header>
