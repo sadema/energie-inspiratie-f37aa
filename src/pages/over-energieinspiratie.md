@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Diensten voor jou
 has_more_link: true
 more_link_text: Lees verder
 seo:
