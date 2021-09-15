@@ -15,4 +15,3 @@ Persoonlijke groei voor alle leeftijden aan de hand van de natuur en meditatie. 
 
 ---
 #### Wat kan je gaan volgen?
-- 
