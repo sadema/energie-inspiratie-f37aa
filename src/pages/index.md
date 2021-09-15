@@ -7,5 +7,5 @@ seo:
   robots: []
   extra: []
 template: page
-has_more_link: true
+has_more_link: false
 ---
