@@ -15,7 +15,7 @@
             },
             {
                 "label": "Mijn diensten voor jou",
-                "url": "/",
+                "url": "/diensten-voor-jou",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
