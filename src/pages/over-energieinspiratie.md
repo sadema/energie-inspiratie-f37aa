@@ -1,6 +1,6 @@
 ---
 title: Energie Inspiratie
-subtitle: Wat
+subtitle: Wat kan ik voor je betekenen
 seo:
   title: 'Energie Inspiratie'
   description: ''
