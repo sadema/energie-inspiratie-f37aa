@@ -4,7 +4,7 @@ excerpt: >-
   Volledig tot rust komen en alle spanning los laten. Bij een begeleidende
   meditatie wordt je hoofd stiller en ga je met aandacht naar je lichaam...
 date: '2019-03-24'
-thumb_img_path: images/4.jpg
+thumb_img_path: images/bankje-met-klankschaal.jpg
 thumb_img_alt: A man fishing in a lake
 hide_header: false
 seo:
