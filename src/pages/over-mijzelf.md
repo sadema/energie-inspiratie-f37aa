@@ -31,7 +31,7 @@ seo:
 template: page
 ---
 Met mijn man en 2 kinderen woon ik met plezier in de bossen van Apeldoorn. De bossen en bomen hebben mij altijd getrokken. Ik kom oorspronkelijk uit het westen maar ik woon nu al jaren op de Veluwe.
-![]()
+![](images/1.j)
 Alles wat is zich met persoonlijkheid ontwikkeling te maken heeft boeit mij. Dit was zo tijdens mijn Z-verpleegkundige opleiding en tijdens mijn opleiding aan de SPH in Nijmegen. Ik werk met plezier als ambulant begeleidster.
 
 Ik ben geïnteresseerd  in mensen en wat hun beweegt. Na enkele belangrijke gebeurtenissen in mijn leven heb ik de opleidingen, healer, reader en lightworker bij Mens en Intuïtie in Amersfoort gevolgd. In 2020 heb ik de opleiding voor Natuurcoach bij Innersteps gevolgd. Hierdoor kwamen twee passies samen bewustzijn ontwikkeling en beweging in de natuur.
