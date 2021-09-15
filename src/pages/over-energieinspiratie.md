@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: nergie Inspiratie
 subtitle: lorem-ipsum
 seo:
   title: ''
