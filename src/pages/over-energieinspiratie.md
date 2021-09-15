@@ -2,7 +2,7 @@
 title: nergie Inspiratie
 subtitle: lorem-ipsum
 seo:
-  title: ''
+  title: 'nergie Inspiratie'
   description: ''
   robots: []
   extra: []
