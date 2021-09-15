@@ -1,6 +1,6 @@
 ---
 title: Energie Inspiratie
-subtitle: Wat kan ik voor je betekenen
+subtitle: 
 has_more_link: false
 more_link_text: Lees verder
 seo:
