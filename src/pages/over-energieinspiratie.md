@@ -1,14 +1,32 @@
 ---
-title: Energie Inspiratie
-subtitle: Wat kan ik voor je betekenen
+title: Home
+has_more_link: true
+more_link_text: Lees verder
 seo:
-  title: 'Energie Inspiratie'
-  description: ''
-  robots: []
-  extra: []
-template: page
+  title: Stackbit Fjord Theme
+  description: The preview of the Fjord theme
+  extra:
+    - name: 'og:type'
+      value: website
+      keyName: property
+    - name: 'og:title'
+      value: Stackbit Fjord Theme
+      keyName: property
+    - name: 'og:description'
+      value: The preview of the Fjord theme
+      keyName: property
+    - name: 'og:image'
+      value: images/home.jpg
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+    - name: 'twitter:title'
+      value: Stackbit Fjord Theme
+    - name: 'twitter:description'
+      value: The preview of the Fjord theme
+    - name: 'twitter:image'
+      value: images/home.jpg
+      relativeUrl: true
+template: home
 ---
-Persoonlijke groei voor alle leeftijden aan de hand van de natuur en meditatie. Wordt je bewust van alle kwaliteiten die je bezit. Monitor je gedachten en je gevoelens Wat speelt er binnen in jouw? Als jij je bewust bent van je gedachten en gevoelens en ze herkent kan je ermee spelen. Welke gedachten en gevoelens zijn helpend, stimulerend, beperkend.
-
----
- 
