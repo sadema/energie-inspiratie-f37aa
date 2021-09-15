@@ -1,6 +1,6 @@
 ---
 title: Energie Inspiratie
-subtitle: lorem-ipsum
+subtitle: Wat
 seo:
   title: 'Energie Inspiratie'
   description: ''
