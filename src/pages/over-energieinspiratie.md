@@ -1,5 +1,5 @@
 ---
-title: nergie Inspiratie
+title: Energie Inspiratie
 subtitle: lorem-ipsum
 seo:
   title: 'nergie Inspiratie'
