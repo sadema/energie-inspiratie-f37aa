@@ -1,5 +1,5 @@
 ---
-title: Thank You!
+title: Dank je wel!
 template: page
 ---
 
