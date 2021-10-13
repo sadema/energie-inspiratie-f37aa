@@ -69,4 +69,4 @@ Je wordt ontvangen in het tuinhuis in de bossen van Apeldoorn. We wandelen altij
 
     Wandeling van 2 uur in de Kroondomeinen van het Loo 60 euro
 
-[terug]()
+[terug](/posts)
