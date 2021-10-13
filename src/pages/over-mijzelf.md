@@ -1,7 +1,7 @@
 ---
 title: Over mijzelf
 subtitle: Dit is een korte pagina over mijzelf en mijn passie
-img_path: images/about.jpg
+img_path: images/JetBijBoom-924ce4c2.JPG
 seo:
   title: About Me
   description: A page about me and my work
