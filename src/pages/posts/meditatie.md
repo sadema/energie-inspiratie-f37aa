@@ -42,4 +42,5 @@ seo:
 template: post
 ---
 Volledig tot rust komen en alle spanning los laten. Bij een begeleidende meditatie wordt je hoofd stiller en ga je met aandacht naar je lichaam. Om waar te nemen mag je met jezelf verbonden zijn en met je zintuigen. Van mediteren wordt je empathischer, gelukkiger en je zelfbewust zijn neemt toe. je immuun systeem gaat beter functioneren. Je hebt een betere balans tussen hoofd en hart. Dit is allemaal wetenschappelijk aangetoond.
+
 [terug naar alle diensten](/diensten-voor-jou)
