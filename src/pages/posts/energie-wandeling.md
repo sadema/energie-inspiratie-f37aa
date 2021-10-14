@@ -1,6 +1,6 @@
 ---
 title: Een energie wandeling
-date: '2019-04-09'
+date: '2019-04-01'
 thumb_img_path: images/bomen-met-heide.jpg
 thumb_img_alt: A man standing on a rock cliff overlooking a river
 content_img_path: images/bomen-met-heide.jpg
