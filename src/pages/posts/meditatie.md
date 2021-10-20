@@ -49,6 +49,7 @@ Bij begeleidende meditatie is je focus op de ademhaling al zittend of liggend. D
 ### Groepsmeditatie
  
 *   Ontvangst in het tuinhuis
+
 *   Prijs voor deelname € 20,00
 
 ##### Beschikbare data:
