@@ -27,4 +27,11 @@ Eerst begeleid ik je verbaal in een meditatie waarna we in stilte gaan wandelen 
 
 *   Maandag ochtend 15 november van 9.30 tot 11.30
 
+Individuele meditatie en wandeling
+Ontvangst in het tuinhuis 
+Geleide meditatie  
+Stilte wandeling in de Kroondomeinen van het Loo 
+2 uur € 70,00
+
+
 [terug naar alle activiteiten](/diensten-voor-jou)
