@@ -40,4 +40,4 @@ Ik ben geïnteresseerd  in mensen en wat hun beweegt. Na enkele belangrijke gebe
 
 Je bent welkom in mijn tuinkamer in de bossen van Apeldoorn.
 
-*Bedankt voor het lezen!*
+*Ik zie ernaar uit om je te ontmoeten*
