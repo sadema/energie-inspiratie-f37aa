@@ -27,7 +27,7 @@ Eerst begeleid ik je verbaal in een meditatie waarna we in stilte gaan wandelen 
 
 *   Maandag ochtend 15 november van 9.30 tot 11.30
 
-Individuele meditatie en stiltewandeling
+##### Individuele meditatie en stiltewandeling
 Ontvangst in het tuinhuis 
 Geleide meditatie  
 Stilte wandeling in de Kroondomeinen van het Loo 
