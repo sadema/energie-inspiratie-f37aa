@@ -41,6 +41,7 @@ seo:
       relativeUrl: true
 template: post
 ---
-Volledig tot rust komen en alle spanning los laten. Bij een begeleidende meditatie wordt je hoofd stiller en ga je met aandacht naar je lichaam. Om waar te nemen mag je met jezelf verbonden zijn en met je zintuigen. Van mediteren wordt je empathischer, gelukkiger en je zelfbewust zijn neemt toe. je immuun systeem gaat beter functioneren. Je hebt een betere balans tussen hoofd en hart. Dit is allemaal wetenschappelijk aangetoond.
+Volledig tot rust komen en alle spanning los laten waarbij je de verbinding met jezelf houdt. Meditatie is de sleutel tot rust in jezelf als er om je heen onrust is. Bij een begeleidende meditatie word je hoofd stiller en ga je met aandacht naar je lichaam. Meditatie en mindfullness laat je in het nu komen, en je gedachten naar de achtergrond verdwijnen waardoor je met afstand naar je gedachten kijkt. Ervaar dat er minder focus is op je gedachten die je continu laten wegdrijven naar toekomst of verleden. Kom tot rust en houdt balans in je leven en tussen je hoofd en je hart.
+Bij begeleidende meditatie is je focus op de ademhaling al zittend of liggend. Door de ogen te sluiten keer je meer naar binnen. Met mijn stem en klanken begeleidt ik je naar een ontspannen staat van zijn. Gedachten verdwijnen meer naar de achtergrond en je lijf voelt meer ontspannen. Soms zie je  tijdens de meditatie beelden, kleuren of krijg je inzichten. Na de meditatie voel jij je rustig en ontspannen.
 
 [terug naar alle diensten](/diensten-voor-jou)
