@@ -85,4 +85,4 @@ Je wordt ontvangen in het tuinhuis in de bossen van Apeldoorn. We wandelen altij
 
 Neem voor verdere details gerust [contact](/contact) met mij op.
 
-[terug naar alle diensten](/diensten-voor-jou)
+[terug naar alle activiteiten](/diensten-voor-jou)
