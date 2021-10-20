@@ -49,7 +49,7 @@ Bij begeleidende meditatie is je focus op de ademhaling al zittend of liggend. D
 ### Groepsmeditatie
 
 Woensdagochtend groep 10.00 tot 11.30 
-Ontvangst in het tuinhuis in de bossen van Apeldoorn 
+*   Ontvangst in het tuinhuis in de bossen van Apeldoorn 
 € 20,00
 
 [terug naar alle diensten](/diensten-voor-jou)
