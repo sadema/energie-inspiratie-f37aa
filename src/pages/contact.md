@@ -19,7 +19,7 @@ form_fields:
     label: Onderwerp
     default_value: Selecteer
     options:
-      - Fout op de website
+      - Schrijf je in
       - Informatie over een dienst
       - Overig
       - Fout op de website
