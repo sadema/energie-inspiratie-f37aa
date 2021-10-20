@@ -58,7 +58,7 @@ Bij begeleidende meditatie is je focus op de ademhaling al zittend of liggend. D
 *   Woensdag ochtend 10 november van 10.00 tot 11.30
 *   Dinsdag ochtend 30 november van 10.00 tot 11.30
 
-Individuele meditatie 
+### Individuele meditatie 
 1 uur €40,00
 
 [terug naar alle activiteiten](/diensten-voor-jou)
