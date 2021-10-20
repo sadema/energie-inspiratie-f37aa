@@ -1,8 +1,10 @@
 ---
 title: Meditatie
 excerpt: >-
-  Volledig tot rust komen en alle spanning los laten. Bij een begeleidende
-  meditatie wordt je hoofd stiller en ga je met aandacht naar je lichaam...
+  Volledig tot rust komen en alle spanning los laten waarbij je de verbinding
+  met jezelf houdt. Meditatie is de sleutel tot rust in jezelf als er om je heen
+  onrust is. Bij een begeleidende meditatie word je hoofd stiller en ga je met
+  aandacht naar je lichaam. Meditatie en...
 date: '2021-10-14'
 thumb_img_path: images/bankje-met-klankschaal.jpg
 thumb_img_alt: A man fishing in a lake
