@@ -27,3 +27,4 @@ Eerst begeleid ik je verbaal in een meditatie waarna we in stilte gaan wandelen 
 
 *   Maandag ochtend 15 november van 9.30 tot 11.30
 
+[terug naar alle activiteiten](/diensten-voor-jou)
