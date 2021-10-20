@@ -61,7 +61,7 @@ Je wordt ontvangen in het tuinhuis in de bossen van Apeldoorn. We wandelen altij
 
 *   Prijs voor deelname € 25,00 (inclusief entree paleispark)
 
-[Schrijf je nu](/contact) in, er zijn maximaal zes plaatsen per wandeling beschikbaar!
+[Schrijf je nu in](/contact) in, er zijn maximaal zes plaatsen per wandeling beschikbaar!
 
 ##### Beschikbare data:
 
