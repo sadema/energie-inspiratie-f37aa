@@ -2,7 +2,9 @@
 title: Begeleidende meditatie en stilte wandeling
 date: '2021-10-16'
 thumb_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: >-
+  Eerst begeleid ik je verbaal in een meditatie waarna we in stilte gaan
+  wandelen in de Kroondomeinen. Het rustgevende effect van de mediatie heeft ...
 hide_header: false
 seo:
   title: ''
