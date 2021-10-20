@@ -20,4 +20,6 @@ Persoonlijke groei voor alle leeftijden aan de hand van de natuur en meditatie. 
 - [Begeleidende meditatie en stilte wandeling](/posts/meditatie-en-stiltewandeling)
 - [Meditatie](/posts/meditatie)
 - [Natuurcoaching](/posts/natuurcoaching)
+- [Geleide meditatie in klein verband](/posts/meditatie)
+
 
