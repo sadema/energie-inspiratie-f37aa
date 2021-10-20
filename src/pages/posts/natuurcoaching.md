@@ -24,5 +24,5 @@ In 5 ontmoetingen in de bossen van Apeldoorn of omgeving kijken we naar wat vraa
 *   4 individuele coaching sessies na de intake sessie.
 *   Natuurcoaching op maat in de Kroondomeinen van het Loo
 *   1,5 of 2 uur per keer
-*   Losse intake €75,00
+*   Prijs voor alleen de Losse intake €75,00
 Intake en 4 sessies €325,00 
