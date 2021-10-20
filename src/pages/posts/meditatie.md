@@ -47,6 +47,7 @@ Volledig tot rust komen en alle spanning los laten waarbij je de verbinding met 
 Bij begeleidende meditatie is je focus op de ademhaling al zittend of liggend. Door de ogen te sluiten keer je meer naar binnen. Met mijn stem en klanken begeleidt ik je naar een ontspannen staat van zijn. Gedachten verdwijnen meer naar de achtergrond en je lijf voelt meer ontspannen. Soms zie je  tijdens de meditatie beelden, kleuren of krijg je inzichten. Na de meditatie voel jij je rustig en ontspannen.
 
 ### Groepsmeditatie
+
 Woensdagochtend groep 10.00 tot 11.30 
 Ontvangst in het tuinhuis in de bossen van Apeldoorn 
 € 20,00
