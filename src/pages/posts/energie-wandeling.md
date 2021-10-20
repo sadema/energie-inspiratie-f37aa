@@ -47,7 +47,7 @@ excerpt: >-
 ---
 ![](/images/bomen-met-heide.jpg)
 
-Je wordt ontvangen in het tuinhuis in de bossen van Apeldoorn. We wandelen altijd vanuit een thema bijvoorbeeld: energie, welke kwaliteiten bezit je, loslaten. Het ritme van de natuur nemen we daar in mee. We gebruiken symbolieken en metaforen vanuit de natuur. Je maakt contact met de natuur en je eigen lichaam. Ik begeleid je verbaal tijdens de wandeling.
+Je wordt ontvangen in het tuinhuis in de bossen van Apeldoorn vanuit daar wandelen we in de Kroondomeinen van het Loo. We wandelen vanuit een thema bijvoorbeeld: energie, welke kwaliteiten bezit je, loslaten. Het ritme van de natuur nemen we daar in mee. We gebruiken symbolieken en metaforen vanuit de natuur. De harmonie in de natuur heeft een rustgevend effect. Je maakt contact met de natuur en je eigen lichaam. Ik begeleid je verbaal tijdens de wandeling.
 
 ### Groepswandeling
 
