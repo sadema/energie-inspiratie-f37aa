@@ -19,7 +19,7 @@ Ik sluit aan op de behoefte van het kind. Dit doe ik door spelenderwijs verbindi
 
 ### Individuele kinderbegeleiding 
 *   Ontspanning door visualisatie, meditatie, de natuur in te gaan en/of voeten massage.
-Prijs voor deelname (1 uur) 
+*   Prijs voor deelname (1 uur) 
 €55,00 
 
 [terug naar alle activiteiten](/diensten-voor-jou)
