@@ -21,7 +21,7 @@ Eerst begeleid ik je verbaal in een meditatie waarna we in stilte gaan wandelen 
 *   Begeleidende meditatie
 *   Stiltewandeling
 *   Ervaringen uitwisselen
-*   Prijs voor deelname € 20,00
+*   Prijs voor deelname € 25,00
 
 ##### Beschikbare data:
 
