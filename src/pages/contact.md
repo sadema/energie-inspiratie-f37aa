@@ -19,7 +19,7 @@ form_fields:
     label: Onderwerp
     default_value: Selecteer
     options:
-      - Schrijf je in
+      - Schrijf je in voor een activiteit
       - Informatie over een activiteit
       - Overig
       - Fout op de website
