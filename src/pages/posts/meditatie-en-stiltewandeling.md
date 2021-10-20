@@ -27,6 +27,8 @@ Eerst begeleid ik je verbaal in een meditatie waarna we in stilte gaan wandelen 
 
 *   Maandag ochtend 15 november van 9.30 tot 11.30
 
+[Schrijf je nu in](/contact), er zijn maximaal zes plaatsen per wandeling beschikbaar!
+
 ### Individuele meditatie en stiltewandeling
 *   Ontvangst in het tuinhuis 
 *   Begeleidende meditatie  
