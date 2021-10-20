@@ -55,4 +55,5 @@ Bij begeleidende meditatie is je focus op de ademhaling al zittend of liggend. D
 
 *   Woensdagochtend 10 november van 10.00 tot 11.30
 
+
 [terug naar alle diensten](/diensten-voor-jou)
