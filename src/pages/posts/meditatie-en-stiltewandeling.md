@@ -31,7 +31,7 @@ Eerst begeleid ik je verbaal in een meditatie waarna we in stilte gaan wandelen 
 *   Ontvangst in het tuinhuis 
 *   Begeleidende meditatie  
 *   Stilte wandeling in de Kroondomeinen van het Loo 
-*   Prijs voor deelname 2 uur € 70,00
+*   Prijs voor deelname van 2 uur € 70,00
 
 
 [terug naar alle activiteiten](/diensten-voor-jou)
