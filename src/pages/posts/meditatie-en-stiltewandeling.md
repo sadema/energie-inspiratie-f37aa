@@ -33,6 +33,6 @@ Eerst begeleid ik je verbaal in een meditatie waarna we in stilte gaan wandelen 
 *   Stilte wandeling in de Kroondomeinen van het Loo 
 *   Prijs voor deelname (2 uur) € 70,00
 
-
+Neem voor verdere details gerust [contact](/contact) met mij op.
 
 [terug naar alle activiteiten](/diensten-voor-jou)
