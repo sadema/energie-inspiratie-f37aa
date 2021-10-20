@@ -15,7 +15,7 @@ template: post
 ---
 Eerst begeleid ik je verbaal in een meditatie waarna we in stilte gaan wandelen in de Kroondomeinen. Het rustgevende effect van de mediatie heeft een langere nawerking in de stilte van de natuur. Je komt nog meer in jezelf door de helende werking van de natuur.
 
-### Groepsmeditatie
+### Groepsmeditatie en stiltewandeling
  
 *   Ontvangst in het tuinhuis
 *   Begeleidende meditatie
