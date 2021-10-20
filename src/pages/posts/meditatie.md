@@ -61,4 +61,6 @@ Bij begeleidende meditatie is je focus op de ademhaling al zittend of liggend. D
 ### Individuele meditatie 
 *   Prijs voor deelname (1 uur) €40,00
 
+Neem voor verdere details gerust [contact](/contact) met mij op.
+
 [terug naar alle activiteiten](/diensten-voor-jou)
