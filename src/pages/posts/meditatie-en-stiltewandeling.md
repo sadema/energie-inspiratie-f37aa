@@ -34,4 +34,5 @@ Eerst begeleid ik je verbaal in een meditatie waarna we in stilte gaan wandelen 
 *   Prijs voor deelname (2 uur) € 70,00
 
 
+
 [terug naar alle activiteiten](/diensten-voor-jou)
