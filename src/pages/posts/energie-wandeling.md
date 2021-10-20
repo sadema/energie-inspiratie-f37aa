@@ -71,7 +71,6 @@ Je wordt ontvangen in het tuinhuis in de bossen van Apeldoorn. Vanuit daar gaan 
 
 *   Ontvangst in het tuinhuis.
 *   Thema en wandeling op maat
-
 *   Wandeling van 2 uur in de Kroondomeinen van het Loo
 
 *   Prijs voor individuele deelname € 70,00
