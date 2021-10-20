@@ -18,7 +18,7 @@ Met kinderen werken die extra ondersteuning nodig hebben heb ik een ruime ervari
 Ik sluit aan op de behoefte van het kind. Dit doe ik door spelenderwijs verbinding te maken en van daaruit rust te bieden. De uitgangs vraag is altijd: wat is passend voor mijn kind. Dit maatwerk kan zijn door meditatie, visualisatie, de natuur in te gaan, voeten massage. Kinderen tot rust en ontspanning brengen in een 1 op 1 setting. Waarbij ze leren die rust in hun zelf te vinden in onoverzichtelijke situaties.
 
 ### Individuele kinderbegeleiding 
-*   Ontspanning door visualisatie, meditatie, de natuur in te gaan en voeten massage.
+*   Ontspanning door visualisatie, meditatie, de natuur in te gaan en/of voeten massage.
 1 uur 
 €55,00 
 
