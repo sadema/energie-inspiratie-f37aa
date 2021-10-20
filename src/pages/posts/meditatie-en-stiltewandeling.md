@@ -19,7 +19,7 @@ Eerst begeleid ik je verbaal in een meditatie waarna we in stilte gaan wandelen 
  
 *   Ontvangst in het tuinhuis
 *   Begeleidende meditatie
-
+*   
 *   Ervaringen uitwisselen
 *   Prijs voor deelname € 20,00
 
