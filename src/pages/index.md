@@ -17,5 +17,5 @@ Persoonlijke groei voor alle leeftijden aan de hand van de natuur en meditatie. 
 #### Wat kan je gaan volgen?
 
 - [Een energie wandeling](/posts/energie-wandeling)
-- [Begeleidende meditatie in klein verband](/posts/meditatie)
+- [Begeleidende meditatie en stilte wandeling](/posts/meditatie)
 - [Geleide meditatie in klein verband](/posts/meditatie)
