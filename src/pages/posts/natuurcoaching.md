@@ -3,7 +3,10 @@ title: Natuurcoaching
 subtitle: Helder stappen plan in vijf wandelingen
 date: '2021-10-10'
 thumb_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: >-
+  Tijdens onze wandelingen ga jij ontdekken hoe je op een natuurlijke manier in
+  beweging komt. Je ontdekt wat onbewust was en bewust mag worden. Zo wordt jij
+  je bewust van overtuigingen, gedachten, emoties, 
 hide_header: false
 seo:
   title: ''
