@@ -65,7 +65,7 @@ Schrijf je [nu](/contact) in, er zijn maximaal zes plaatsen per wandeling beschi
 
 ##### Beschikbare data:
 
-* Dinsdag ochtend 2 november van 9.30 tot 11.30
+*   Dinsdag ochtend 2 november van 9.30 tot 11.30
 
 *   Maandag ochtend 15 november van 9.30 tot 11.30
 
