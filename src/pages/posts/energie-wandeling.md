@@ -79,6 +79,6 @@ Schrijf je [nu](/contact) in, er zijn maximaal zes plaatsen per wandeling beschi
 
 *   Thema en wandeling op maat
 
-*    Wandeling van 2 uur in de Kroondomeinen van het Loo 60 euro
+*   Wandeling van 2 uur in de Kroondomeinen van het Loo 60 euro
 
 [terug naar alle diensten](/diensten-voor-jou)
