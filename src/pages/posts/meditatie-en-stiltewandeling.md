@@ -14,3 +14,15 @@ seo:
 template: post
 ---
 Eerst begeleid ik je verbaal in een meditatie waarna we in stilte gaan wandelen in de Kroondomeinen. Het rustgevende effect van de mediatie heeft een langere nawerking in de stilte van de natuur. Je komt nog meer in jezelf door de helende werking van de natuur.
+
+### Groepsmeditatie
+ 
+*   Ontvangst in het tuinhuis
+*   Begeleidende meditatie
+*   Ervaringen uitwisselen
+*   Prijs voor deelname € 20,00
+
+##### Beschikbare data:
+
+*   Woensdag ochtend 10 november van 10.00 tot 11.30
+*   Dinsdag ochtend 30 november van 10.00 tot 11.30
