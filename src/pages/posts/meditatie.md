@@ -52,6 +52,6 @@ Woensdagochtend groep 10.00 tot 11.30
 *   Ontvangst in het tuinhuis
 *   Prijs voor deelname € 20,00
 
-##### 
+##### Beschik
 
 [terug naar alle diensten](/diensten-voor-jou)
