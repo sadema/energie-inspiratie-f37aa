@@ -51,8 +51,6 @@ Je wordt ontvangen in het tuinhuis in de bossen van Apeldoorn. We wandelen altij
 
 ### Groepswandeling
 
-*   Dinsdag ochtend van 9.30 tot 11.30
-
 *   Ontvangst in het tuinhuis
 
 *   Uitleg van het thema
@@ -61,9 +59,17 @@ Je wordt ontvangen in het tuinhuis in de bossen van Apeldoorn. We wandelen altij
 
 *   Afsluiting in het tuinhuis
 
-*   Prijs voor deelname € 25,00
+*   Prijs voor deelname € 25,00 (inclusief entree paleispark)
 
-Schrijf je [nu](/contact) in, er zijn maximaal zes plaatsen beschikbaar!
+Schrijf je [nu](/contact) in, er zijn maximaal zes plaatsen per wandeling beschikbaar!
+
+Beschikbare data:
+
+*   Dinsdag ochtend 2 november van 9.30 tot 11.30
+
+*   Maandag ochtend 15 november van 9.30 tot 11.30
+
+*   Dinsdag middag 23 november van 13.00 tot 15.00
 
 <!---->
 
