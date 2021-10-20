@@ -39,8 +39,8 @@ seo:
 template: post
 hide_header: false
 excerpt: >-
-  Je wordt ontvangen in het tuinhuis in de bossen van Apeldoorn vanuit daar
-  wandelen we in de Kroondomeinen van het Loo. We wandelen vanuit ...
+  Je wordt ontvangen in het tuinhuis in de bossen van Apeldoorn. Vanuit daar
+  gaan we de Kroondomeinen in van paleis het Loo. We wandelen vanuit 
 ---
 ![](/images/bomen-met-heide.jpg)
 
