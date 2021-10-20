@@ -38,6 +38,6 @@ Ik ben geïnteresseerd  in mensen en wat hun beweegt. Na enkele belangrijke gebe
 
 > Mijn passie is het delen van bewustzijn ontwikkeling en handreikingen te doen doen voor een gezonder en bewuster leven.
 
-Je bent welkom in mijn tuinkamer in de  bossen van Apeldoorn.
+Je bent welkom in mijn tuinkamer in de bossen van Apeldoorn.
 
 *Bedankt voor het lezen!*
