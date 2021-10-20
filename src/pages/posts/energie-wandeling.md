@@ -63,7 +63,7 @@ Je wordt ontvangen in het tuinhuis in de bossen van Apeldoorn. We wandelen altij
 
 Schrijf je [nu](/contact) in, er zijn maximaal zes plaatsen per wandeling beschikbaar!
 
-#### Beschikbare data:
+##### Beschikbare data:
 
 Dinsdag ochtend 2 november van 9.30 tot 11.30
 
