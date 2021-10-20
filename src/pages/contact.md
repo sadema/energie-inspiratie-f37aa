@@ -20,7 +20,7 @@ form_fields:
     default_value: Selecteer
     options:
       - Schrijf je in
-      - Informatie over een dienst
+      - Informatie over een activiteit
       - Overig
       - Fout op de website
   - input_type: textarea
