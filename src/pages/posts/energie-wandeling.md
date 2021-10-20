@@ -81,6 +81,6 @@ Schrijf je [nu](/contact) in, er zijn maximaal zes plaatsen per wandeling beschi
 
 *   Wandeling van 2 uur in de Kroondomeinen van het Loo
 
-*   Prijs voor individuele deelname 
+*   Prijs voor individuele deelname €
 
 [terug naar alle diensten](/diensten-voor-jou)
