@@ -1,5 +1,5 @@
 ---
-title: Begeleidende meditatie en stilte
+title: Begeleidende meditatie en stilte wandeling
 subtitle: lorem-ipsum
 date: '2021-10-16'
 thumb_img_alt: lorem-ipsum
