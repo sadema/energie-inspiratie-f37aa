@@ -1,6 +1,6 @@
 ---
 title: Natuurcoaching
-subtitle: lorem-ipsum
+subtitle: helder stappen plan in vijf wandelingen
 date: '2021-10-10'
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
