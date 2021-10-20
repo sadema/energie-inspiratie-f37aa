@@ -1,6 +1,6 @@
 ---
 title: Kinderen
-date: '2021-10-20'
+date: '2021-10-08'
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 hide_header: false
