@@ -22,4 +22,6 @@ Ik sluit aan op de behoefte van het kind. Dit doe ik door spelenderwijs verbindi
 *   Prijs voor deelname (1 uur) 
 €55,00 
 
+Neem voor verdere details gerust [contact](/contact) met mij op.
+
 [terug naar alle activiteiten](/diensten-voor-jou)
