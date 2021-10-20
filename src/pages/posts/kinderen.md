@@ -2,7 +2,10 @@
 title: Kinderen
 date: '2021-10-08'
 thumb_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: >-
+  Met kinderen werken die extra ondersteuning nodig hebben heb ik een ruime
+  ervaring. De puurheid, openheid en eerlijkheid van kinderen spreekt mij zeer
+  aan. Ik heb dit gedaan in de thuis situaties en 
 hide_header: false
 seo:
   title: ''
