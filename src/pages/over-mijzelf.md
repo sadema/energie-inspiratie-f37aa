@@ -1,5 +1,5 @@
 ---
-title: Over Marie
+title: Over Mariëtte
 subtitle: Dit is een korte pagina over mijzelf en mijn passie
 img_path: images/JetBijBoom-924ce4c2.JPG
 seo:
