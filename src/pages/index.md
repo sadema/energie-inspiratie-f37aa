@@ -18,4 +18,4 @@ Persoonlijke groei voor alle leeftijden aan de hand van de natuur en meditatie. 
 
 - [Een energie wandeling](/posts/energie-wandeling)
 - [Begeleidende meditatie en stilte wandeling](/posts/meditatie-en-stiltewandeling)
-- [Geleide meditatie in klein verband](/posts/meditatie)
+- [Meditatie in klein verband](/posts/meditatie)
