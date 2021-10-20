@@ -50,6 +50,7 @@ Bij begeleidende meditatie is je focus op de ademhaling al zittend of liggend. D
  
 *   Ontvangst in het tuinhuis
 *   Begeleidende meditatie
+
 *   Prijs voor deelname € 20,00
 
 ##### Beschikbare data:
