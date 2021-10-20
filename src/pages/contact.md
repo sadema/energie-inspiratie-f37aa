@@ -22,6 +22,7 @@ form_fields:
       - Fout op de website
       - Informatie over een dienst
       - Overig
+      - lorem-ipsum
   - input_type: textarea
     name: message
     label: Bericht
