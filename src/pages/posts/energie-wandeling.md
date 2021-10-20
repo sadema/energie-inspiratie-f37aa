@@ -83,6 +83,6 @@ Schrijf je [nu](/contact) in, er zijn maximaal zes plaatsen per wandeling beschi
 
 *   Prijs voor individuele deelname € 70,00
 
-Neem voor verdere details 
+Neem voor verdere details gerust contact met mij op
 
 [terug naar alle diensten](/diensten-voor-jou)
