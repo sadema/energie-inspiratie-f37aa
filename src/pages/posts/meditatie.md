@@ -58,6 +58,8 @@ Bij begeleidende meditatie is je focus op de ademhaling al zittend of liggend. D
 *   Woensdag ochtend 10 november van 10.00 tot 11.30
 *   Dinsdag ochtend 30 november van 10.00 tot 11.30
 
+[Schrijf je nu in](/contact), er zijn maximaal zes plaatsen per wandeling beschikbaar!
+
 ### Individuele meditatie 
 *   Prijs voor deelname (1 uur) €40,00
 
