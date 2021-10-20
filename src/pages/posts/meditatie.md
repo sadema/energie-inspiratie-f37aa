@@ -53,6 +53,6 @@ Bij begeleidende meditatie is je focus op de ademhaling al zittend of liggend. D
 
 ##### Beschikbare data:
 
-*   Woensdagochtend groep 10.00 tot 11.30
+*   Woensdagochtend  10.00 tot 11.30
 
 [terug naar alle diensten](/diensten-voor-jou)
