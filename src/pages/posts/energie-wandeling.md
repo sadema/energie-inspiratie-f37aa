@@ -63,9 +63,6 @@ Je wordt ontvangen in het tuinhuis in de bossen van Apeldoorn. Vanuit daar gaan 
 ##### Beschikbare data:
 
 *   Dinsdag ochtend 2 november van 9.30 tot 11.30
-
-*   Maandag ochtend 15 november van 9.30 tot 11.30
-
 *   Dinsdag middag 23 november van 13.00 tot 15.00
 
 <!---->
