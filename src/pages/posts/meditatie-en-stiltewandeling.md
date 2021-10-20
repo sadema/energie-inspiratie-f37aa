@@ -12,9 +12,4 @@ seo:
   extra: []
 template: post
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+Eerst begeleid ik je verbaal in een meditatie waarna we in stilte gaan wandelen in de Kroondomeinen. Het rustgevende effect van de mediatie heeft een langere nawerking in de stilte van de natuur. Je komt nog meer in jezelf door de helende werking van de natuur.
