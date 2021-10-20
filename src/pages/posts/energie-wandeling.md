@@ -74,6 +74,7 @@ Schrijf je [nu](/contact) in, er zijn maximaal zes plaatsen per wandeling beschi
 <!---->
 
 
+
 *   Individueel; Ontvangst in het tuinhuis.
 
 *   Thema en wandeling op maat
