@@ -6,7 +6,7 @@ thumb_img_alt: lorem-ipsum
 excerpt: >-
   Tijdens onze wandelingen ga jij ontdekken hoe je op een natuurlijke manier in
   beweging komt. Je ontdekt wat onbewust was en bewust mag worden. Zo wordt jij
-  je bewust van overtuigingen, gedachten, emoties, 
+  je bewust van overtuigingen, gedachten, emoties,  ...
 hide_header: false
 seo:
   title: ''
