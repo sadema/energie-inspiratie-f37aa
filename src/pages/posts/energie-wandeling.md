@@ -70,7 +70,6 @@ Je wordt ontvangen in het tuinhuis in de bossen van Apeldoorn. Vanuit daar gaan 
 ### Individuele wandeling
 
 *   Ontvangst in het tuinhuis.
-
 *   Thema en wandeling op maat
 
 *   Wandeling van 2 uur in de Kroondomeinen van het Loo
