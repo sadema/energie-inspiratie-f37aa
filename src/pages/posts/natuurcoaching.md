@@ -21,7 +21,7 @@ In 5 ontmoetingen in de bossen van Apeldoorn of omgeving kijken we naar wat vraa
 
 ### Individuele coaching
 *   Intake tevens coaching sessie, hierna bepaal jij of je het volledige traject ingaat. 
-*   4 individuele coaching sessies volgend op de intake sessie.
+*   4 individuele coaching sessies volgend op de intake.
 *   Natuurcoaching op maat in de Kroondomeinen van het Loo
 *   1,5 of 2 uur per keer
 *   Prijs voor alleen de intake €75,00
