@@ -27,4 +27,6 @@ In 5 ontmoetingen in de bossen van Apeldoorn of omgeving kijken we naar wat vraa
 *   Prijs voor alleen de intake €75,00
 *   Intake en 4 sessies €325,00
 
+Neem voor verdere details gerust [contact](/contact) met mij op.
+
 [terug naar alle activiteiten](/diensten-voor-jou)
