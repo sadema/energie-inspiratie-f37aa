@@ -2,7 +2,7 @@
 title: Neem contact op
 img_path: images/contact.jpg
 form_id: contactForm
-form_action: 'http://energieinspiratie.nl:8080/contact'
+form_action: 'https://energieinspiratie.nl:8080/contact'
 form_fields:
   - input_type: text
     name: name
