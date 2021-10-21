@@ -2,7 +2,7 @@
 title: Neem contact op
 img_path: images/contact.jpg
 form_id: contactForm
-form_action: 'http://'
+form_action: 'http://ener'
 form_fields:
   - input_type: text
     name: name
