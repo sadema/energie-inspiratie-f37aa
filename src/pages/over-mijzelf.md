@@ -35,7 +35,7 @@ Alles wat met persoonlijkheid ontwikkeling te maken heeft boeit mij. Dit was zo 
 
 Ik ben geïnteresseerd  in mensen en wat hun beweegt. Na enkele belangrijke gebeurtenissen in mijn leven heb ik de opleidingen, healer, reader en lightworker bij Mens en Intuïtie in Amersfoort gevolgd. In 2020 heb ik de opleiding voor Natuurcoach bij Innersteps gevolgd. Hierdoor kwamen twee passies samen bewustzijn ontwikkeling en beweging in de natuur. Elke dag leer ik via boeken, online cursussen, podcasts of door live events. In oktober heb ik de retraiteweek 'Love, Power and Spirit' bij het Levenscollege gevolgd.
 
-> Mijn passie is het delen van bewustzijn ontwikkeling en handreikingen te doen doen voor een gezonder en bewuster leven.
+> Mijn passie is het delen van bewustzijn ontwikkeling en handreikingen te doen voor een gezonder en bewuster leven.
 
 Je bent welkom in mijn tuinkamer in de bossen van Apeldoorn.
 
