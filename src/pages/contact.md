@@ -63,4 +63,5 @@ template: contact
 ---
 Het adres:
 
-Sparrenlaan 17 7313AT Apeldoorn
+Sparrenlaan 17
+7313AT Apeldoorn
