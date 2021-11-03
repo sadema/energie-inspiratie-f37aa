@@ -61,7 +61,4 @@ seo:
       relativeUrl: true
 template: contact
 ---
-Het adres:
-
-Sparrenlaan 17
-7313AT Apeldoorn
+Het adres: Sparrenlaan 17 7313AT Apeldoorn
