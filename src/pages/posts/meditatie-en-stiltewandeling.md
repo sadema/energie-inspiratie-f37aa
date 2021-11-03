@@ -16,7 +16,7 @@ template: post
 Eerst begeleid ik je verbaal in een meditatie waarna we in stilte gaan wandelen in de Kroondomeinen. Het rustgevende effect van de mediatie heeft een langere nawerking in de stilte van de natuur. Je komt nog meer in jezelf door de helende werking van de natuur.
 
 ### Groepsmeditatie en stiltewandeling
- 
+
 *   Ontvangst in het tuinhuis
 *   Begeleidende meditatie
 *   Stiltewandeling
@@ -25,14 +25,15 @@ Eerst begeleid ik je verbaal in een meditatie waarna we in stilte gaan wandelen 
 
 ##### Beschikbare data:
 
-*   Maandag ochtend 15 november van 9.30 tot 11.30
+*   Maandag ochtend 15 november van 10.00 tot 12.00
 
 [Schrijf je nu in](/contact), er zijn maximaal zes plaatsen per wandeling beschikbaar!
 
 ### Individuele meditatie en stiltewandeling
-*   Ontvangst in het tuinhuis 
-*   Begeleidende meditatie  
-*   Stilte wandeling in de Kroondomeinen van het Loo 
+
+*   Ontvangst in het tuinhuis
+*   Begeleidende meditatie
+*   Stilte wandeling in de Kroondomeinen van het Loo
 *   Prijs voor deelname (2 uur) € 70,00
 
 Neem voor verdere details gerust [contact](/contact) met mij op.
