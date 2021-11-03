@@ -61,4 +61,8 @@ seo:
       relativeUrl: true
 template: contact
 ---
-Vertel me wat je bezig houdt.
+Het adres:
+
+Sparrenlaan 17
+
+7313AT Apeldoorn
