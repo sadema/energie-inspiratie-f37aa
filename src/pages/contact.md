@@ -63,4 +63,6 @@ template: contact
 ---
 Het adres: Sparrenlaan 17 7313AT Apeldoorn
 
-Telefoon: 0615940099   email: m.v.marrewijk@energieinspiratie.nl
+Telefoon: 0615940099   
+
+email: m.v.marrewijk@energieinspiratie.nl
