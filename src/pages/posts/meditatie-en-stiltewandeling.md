@@ -25,7 +25,7 @@ Eerst begeleid ik je verbaal in een meditatie waarna we in stilte gaan wandelen 
 
 ##### Beschikbare data:
 
-*   Maandag ochtend 15 november van 10.00 tot 12.00
+*   Maandag ochtend 15 december van 10.00 tot 12.00
 
 [Schrijf je nu in](/contact), er zijn maximaal zes plaatsen per wandeling beschikbaar!
 
