@@ -1,6 +1,6 @@
 ---
 title: Over Mariëtte
-img_path: images/JetBijBoom-924ce4c2.JPG
+img_path: images/JetOpPad.jpg
 seo:
   title: About Me
   description: A page about me and my work
