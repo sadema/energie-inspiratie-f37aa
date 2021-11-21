@@ -6,7 +6,7 @@ excerpt: >-
   onrust is. Bij een begeleidende meditatie word je hoofd stiller en ga je met
   aandacht naar je lichaam. Meditatie en...
 date: '2021-10-14'
-thumb_img_path: images/bankje-met-klankschaal.jpg
+thumb_img_path: images/Bankje.jpg
 thumb_img_alt: A man fishing in a lake
 hide_header: false
 seo:
