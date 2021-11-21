@@ -48,7 +48,6 @@ Bij begeleidende meditatie is je focus op de ademhaling al zittend of liggend. D
 
 ![](/images/Beeldje.jpg)
 
-
 ### Groepsmeditatie
 
 *   Ontvangst in het tuinhuis
