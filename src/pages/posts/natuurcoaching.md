@@ -14,6 +14,7 @@ seo:
   robots: []
   extra: []
 template: post
+thumb_img_path: images/JetOpBruggetje.jpg
 ---
 Tijdens onze wandelingen ga jij ontdekken hoe je op een natuurlijke manier in beweging komt.
 Je ontdekt wat onbewust was en bewust mag worden. Zo wordt jij je bewust van overtuigingen, gedachten, emoties, conditioneringen en blokkades waardoor je steeds meer inzichten in jezelf krijgt. Daardoor leer je gedrag doorzien en kun je steeds meer kiezen hoe je wilt zijn en waar jij aandacht aan wilt schenken.
