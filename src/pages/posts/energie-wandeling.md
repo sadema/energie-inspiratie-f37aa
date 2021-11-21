@@ -42,7 +42,7 @@ excerpt: >-
   Je wordt ontvangen in het tuinhuis in de bossen van Apeldoorn. Vanuit daar
   gaan we de Kroondomeinen in van paleis het Loo. We wandelen vanuit ...
 ---
-![](images/Tuinhuis.jpg)
+
 
 <img src="images/Tuinhuis.jpg" alt="tuinhuis" />
 
