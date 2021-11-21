@@ -1,6 +1,6 @@
 ---
 title: Neem contact op
-img_path: images/contact.jpg
+img_path: images/JetInTuinhuis.jpg
 form_id: contactForm
 form_action: 'https://energieinspiratie.nl/contactform'
 form_fields:
