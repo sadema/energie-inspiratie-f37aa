@@ -13,7 +13,7 @@ template: page
 #### Wat kan ik voor je betekenen?
 Persoonlijke groei voor alle leeftijden aan de hand van de natuur en meditatie. Word je bewust van alle kwaliteiten die je bezit. Monitor je gedachten en je gevoelens. Wat speelt er binnen in jou? Als jij je bewust bent van je gedachten en gevoelens en ze herkent kan je ermee spelen. Welke gedachten en gevoelens zijn helpend, stimulerend, beperkend.
 
-<img src="images/JetInTuinhuis_1500x1000.jpg" alt="Jet in Tuinhuis" />
+<img src="images/Jet.jpg" alt="Jet in Tuinhuis" />
 
 ---
 #### Wat kan je gaan volgen?
