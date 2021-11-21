@@ -42,8 +42,7 @@ excerpt: >-
   Je wordt ontvangen in het tuinhuis in de bossen van Apeldoorn. Vanuit daar
   gaan we de Kroondomeinen in van paleis het Loo. We wandelen vanuit ...
 ---
-
-Je wordt ontvangen in het tuinhuis in de bossen van Apeldoorn. Vanuit daar gaan we de Kroondomeinen in van paleis het Loo. We wandelen vanuit een bepaald thema zoals bijvoorbeeld: energie, welke kwaliteiten bezit je, loslaten. Het ritme van de natuur nemen we daar in mee. We gebruiken symbolieken en metaforen vanuit de natuur. De harmonie in de natuur heeft een rustgevend effect. Je maakt contact met de natuur en je eigen lichaam. Ik begeleid je verbaal tijdens de wandeling.
+![](images/Tuinhuis.jpg)Je wordt ontvangen in het tuinhuis in de bossen van Apeldoorn. Vanuit daar gaan we de Kroondomeinen in van paleis het Loo. We wandelen vanuit een bepaald thema zoals bijvoorbeeld: energie, welke kwaliteiten bezit je, loslaten. Het ritme van de natuur nemen we daar in mee. We gebruiken symbolieken en metaforen vanuit de natuur. De harmonie in de natuur heeft een rustgevend effect. Je maakt contact met de natuur en je eigen lichaam. Ik begeleid je verbaal tijdens de wandeling.
 
 ### Groepswandeling
 
