@@ -1,6 +1,6 @@
 ---
 title: Over Mariëtte
-img_path: images/JetInTuinhuis_1200x800.jpg
+img_path: images/JetInTuinhuis.jpg
 seo:
   title: About Me
   description: A page about me and my work
