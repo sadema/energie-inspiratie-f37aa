@@ -22,11 +22,11 @@ Eerst begeleid ik je verbaal in een meditatie waarna we in stilte gaan wandelen 
 *   Begeleidende meditatie
 *   Stiltewandeling
 *   Ervaringen uitwisselen
-*   Prijs voor deelname € 25,00
+*   Prijs voor deelname € 15,00
 
 ##### Beschikbare data:
 
-*   Maandag ochtend 15 december van 10.00 tot 12.00
+*   Vrijdag ochtend 14 januari van 10.00 tot 12.00
 
 [Schrijf je nu in](/contact), er zijn maximaal zes plaatsen per wandeling beschikbaar!
 
@@ -35,7 +35,7 @@ Eerst begeleid ik je verbaal in een meditatie waarna we in stilte gaan wandelen 
 *   Ontvangst in het tuinhuis
 *   Begeleidende meditatie
 *   Stilte wandeling in de Kroondomeinen van het Loo
-*   Prijs voor deelname (2 uur) € 70,00
+*   Prijs voor deelname (2 uur) € 35,00
 
 Neem voor verdere details gerust [contact](/contact) met mij op.
 
