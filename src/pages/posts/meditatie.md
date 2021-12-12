@@ -61,7 +61,7 @@ Bij begeleidende meditatie is je focus op de ademhaling al zittend of liggend. D
 *   Donderdag ochtend 6 januari van 10.30 tot 12.00
 *   Donderdag ochtend 27 januari van 10.30 tot 12.00
 *   Donderdag ochtend 17 februari van 10.30 tot 12.00
-*   Donderdag ochtend 10 januari van 10.30 tot 12.00
+*   Donderdag ochtend 10 maart van 10.30 tot 12.00
 
 [Schrijf je nu in](/contact), er zijn maximaal zes plaatsen per wandeling beschikbaar!
 
