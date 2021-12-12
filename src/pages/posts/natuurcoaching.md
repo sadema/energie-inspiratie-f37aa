@@ -21,12 +21,13 @@ Je ontdekt wat onbewust was en bewust mag worden. Zo wordt jij je bewust van ove
 In 5 ontmoetingen in de bossen van Apeldoorn of omgeving kijken we naar wat vraagt om verandering, aandacht of opheldering. Samen werken we met visualisaties, metaforen en symbolieken in de natuur. Ik werk met jouw samen aan een helder stappen plan in vijf wandelingen.
 
 ### Individuele coaching
-*   Intake tevens coaching sessie, hierna bepaal jij of je het volledige traject ingaat 
+
+*   Intake tevens coaching sessie, hierna bepaal jij of je het volledige traject ingaat
 *   4 individuele coaching sessies volgend op de intake
 *   Natuurcoaching op maat in de Kroondomeinen van het Loo
 *   1,5 of 2 uur per keer
-*   Prijs voor alleen de intake €75,00
-*   Intake en 4 sessies €325,00
+*   Prijs voor alleen de intake €35,00
+*   Intake en 4 sessies €150,00
 
 Neem voor verdere details gerust [contact](/contact) met mij op.
 
