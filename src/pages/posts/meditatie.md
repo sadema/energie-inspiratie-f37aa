@@ -57,7 +57,7 @@ Bij begeleidende meditatie is je focus op de ademhaling al zittend of liggend. D
 
 ##### Beschikbare data:
 
-*   Woensdag ochtend 16 november van 10.00 tot 11.30
+*   Donderdag ochtend 16 november van 10.00 tot 11.30
 *   Dinsdag ochtend 30 november van 10.00 tot 11.30
 
 [Schrijf je nu in](/contact), er zijn maximaal zes plaatsen per wandeling beschikbaar!
