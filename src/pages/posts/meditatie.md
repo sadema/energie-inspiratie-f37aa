@@ -59,7 +59,7 @@ Bij begeleidende meditatie is je focus op de ademhaling al zittend of liggend. D
 
 *   Donderdag ochtend 16 november van 10.30 tot 12.00
 *   Donderdag ochtend 6 januari van 10.30 tot 12.00
-*   Donderdag ochtend 6 januari van 10.30 tot 12.00
+*   Donderdag ochtend 27 januari van 10.30 tot 12.00
 *   Donderdag ochtend 6 januari van 10.30 tot 12.00
 *   Donderdag ochtend 6 januari van 10.30 tot 12.00
 
