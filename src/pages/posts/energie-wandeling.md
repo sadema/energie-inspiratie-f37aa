@@ -58,15 +58,15 @@ Je wordt ontvangen in het tuinhuis in de bossen van Apeldoorn. Vanuit daar gaan 
 
 *   Afsluiting in het tuinhuis
 
-*   Prijs voor deelname € 25,00 (inclusief entree paleispark)
+*   Prijs voor deelname € 15,00 (inclusief entree paleispark)
 
 [Schrijf je nu in](/contact), er zijn maximaal zes plaatsen per wandeling beschikbaar!
 
 ##### Beschikbare data:
 
-*   Dinsdag middag 23 november van 13.00 tot 15.00
+*   Dinsdag middag 18 januari van 13.00 tot 15.00
 
-*   Zaterdag middag 11 december van 13.00 tot 15.00
+
 
 <!---->
 
@@ -75,7 +75,7 @@ Je wordt ontvangen in het tuinhuis in de bossen van Apeldoorn. Vanuit daar gaan 
 *   Ontvangst in het tuinhuis.
 *   Thema en wandeling op maat
 *   Wandeling van 2 uur in de Kroondomeinen van het Loo
-*   Prijs voor individuele deelname € 70,00
+*   Prijs voor individuele deelname € 35,00
 
 Neem voor verdere details gerust [contact](/contact) met mij op.
 
